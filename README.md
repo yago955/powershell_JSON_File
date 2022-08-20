@@ -1,5 +1,5 @@
 # powershell_JSON_File
-my customized JSON file code
+my customized JSON file for windows terminal (powershell)
 
 use the .json code to modify your powershell terminal layout
 
